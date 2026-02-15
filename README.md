@@ -45,7 +45,7 @@
 * **이메일**: [dellabee@tukorea.ac.kr](mailto:dellabee@tukorea.ac.kr)
 * **공식 홈페이지**: [AXID Lab Google Site](https://sites.google.com/view/ax-id)
 * **연구 아카이브**: [AXID Lab Notion](https://axid.notion.site)
-* **강의 아카이브**: [AXID Lab Notion](https://axidlab-ai.github.io/lecture)
+* **강의 아카이브**: [AXID Lab Lecture](https://axidlab-ai.github.io/lecture)
 
 ---
 *최종 업데이트: 2026.02.15* *본 페이지는 교수님의 강의 및 연구 성과를 통합 관리하는 아카이브입니다.*
