@@ -44,7 +44,7 @@
 * **연구실**: AXID Lab (한국공학대학교 경영학부)
 * **이메일**: [dellabee@tukorea.ac.kr](mailto:dellabee@tukorea.ac.kr)
 * **공식 홈페이지**: [AXID Lab Google Site](https://sites.google.com/view/ax-id)
-* **연구 아카이브**: [AXID Lab Notion](https://axid.notion.site)
+* **연구 아카이브**: [To Be Announced]
 * **강의 아카이브**: [AXID Lab Lecture](https://axidlab-ai.github.io/lecture)
 
 ---
