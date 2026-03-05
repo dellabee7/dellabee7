@@ -1,4 +1,4 @@
-# # 강송희 교수 (Professor Dr. Songhee Kang)
+## 강송희 교수 (Professor Dr. Songhee Kang)
 
 > 🚀 **AXID Lab**: 데이터 기반 의사결정(Data-driven Decisions) 및 현장 중심 혁신(Field-driven Innovation) 연구
 
